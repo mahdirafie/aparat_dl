@@ -8,7 +8,7 @@ from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.keys import Keys
 
-# Illustration playlist url
+# Illustration playlist 
 url = "https://www.aparat.com/playlist/1640324"
 
 # Create driver
