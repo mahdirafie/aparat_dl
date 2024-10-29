@@ -1,5 +1,7 @@
-First install the requirements in the requirements.txt
+First install the requirements in the requirements.txt.
+
 and also have the "geckodriver" installed on your pc.
+
 then run the following command:
 ```bash
 python aparat_dl.py
