@@ -9,3 +9,5 @@ python aparat_dl.py
 enter the url of the playlist which is in following form: "https://www.aparat.com/playlist/1111111"
 
 and then let the magic happen! :)
+
+(CHECK THE "output" FOLDER WHEN THE PROCESS IS FINISHED)
